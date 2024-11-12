@@ -1,0 +1,7 @@
+main: me.drman.litminions.LITMinionsPlugin
+author: "777m"
+name: LITMinions
+version: "1.0"
+
+depend: [MassiveCore, Vault]
+softdepend: [SuperiorSkyblock2, WildStacker, HolographicDisplays]
